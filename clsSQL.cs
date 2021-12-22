@@ -75,8 +75,7 @@ namespace FA21_Final_Project
             set { _dtTable = value; }
         }
 
-        private const string strConn = @"Server=cstnt.tstc.edu;Database=inew2332fa21;
-            User Id=StilesE21Fa2332;password=1715126;";
+        private const string strConn = @"Redacted";
         static SqlConnection cnn = new SqlConnection(strConn);
 
         //Open SQL Connection to Database
