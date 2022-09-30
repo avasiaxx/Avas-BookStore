@@ -34,7 +34,7 @@ Contact | Information
 --------|------
 Name | Elizabeth Stiles
 Email | avasiaxx@gmail.com
-Social Media Link | www.linkedin.com/in/elizabeth-stiles-328894107
+Social Media Link | https://www.linkedin.com/in/shelby-stiles-328894107/
 
 ### <a href="https://github.com/TSTC-CPT/21FA-FinalProject-StilesElizabeth/blob/main/LICENSE" target="_blank">License</a>
 
